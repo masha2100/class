@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Bangers', cursive;
+    font-family: 'Vidaloka', serif;
+    background-color: #FF0099;
+    font-weight:100;
+}
+
+
+
+.text1{
+    color: #FF66CC;
+    font-weight: 600;
+    font-size: 45px;
+    text-align: center;
+    left: 500px;
+    margin-bottom:0px;
+}
+.text2{
+    color: white;
+    font-weight: 600;
+    font-size: 80px;
+    text-align: center;
+    left: 500px;
+    line-height: 0.1px;
+    margin-bottom: auto;
+}
+.text3{
+    color: #FF66CC;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    left: 500px;
+}
